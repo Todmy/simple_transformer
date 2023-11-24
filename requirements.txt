@@ -19,8 +19,7 @@ google-pasta==0.2.0
 googleapis-common-protos==1.61.0
 grpcio==1.59.3
 h5py==3.10.0
-idna==3.4
-importlib-metadata==6.8.0
+idna==3.5
 importlib-resources==6.1.1
 keras==2.15.0
 kiwisolver==1.4.5
@@ -50,10 +49,10 @@ tensorboard-data-server==0.7.2
 tensorflow==2.15.0
 tensorflow-datasets==4.9.3
 tensorflow-estimator==2.15.0
-tensorflow-hub==0.15.0
 tensorflow-io-gcs-filesystem==0.34.0
+tensorflow-macos==2.15.0
 tensorflow-metadata==1.14.0
-tensorflow-text==2.15.0
+tensorflow-metal==1.1.0
 termcolor==2.3.0
 toml==0.10.2
 tqdm==4.66.1
